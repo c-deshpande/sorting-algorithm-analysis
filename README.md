@@ -36,7 +36,7 @@ For example,
 	2. Enter 25 numbers for sorting  
 	1  
     
-	=>If the user selects 2, elements have to be inserted manually.  
+	If the user selects 2, elements have to be inserted manually.  
 	  
 	The data is: [2199, 2782, 1183, 2917, 4566, 1962, 2974, 91, 2428, 1409, 2941, 2049, 4893, 3731, 633, 1446, 1582, 2224, 99, 3683, 4981, 2518, 3652, 1904, 1126]  
 	Select a sorting algorithm to use:  
